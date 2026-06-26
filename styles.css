@@ -54,3 +54,7 @@ li {
 .nav__link--primary:hover {
     text-decoration: none;
 }
+
+#landing {
+    background-color: rgba(115, 66, 214, 0.1);
+}
