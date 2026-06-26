@@ -5,3 +5,25 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
+
+.nav {
+    height: 80p;
+    display: flex;
+}
+
+.nav__container {
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style-type: none;
+}
